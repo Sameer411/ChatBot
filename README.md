@@ -8,18 +8,19 @@ AI bsed ChatBot
     pip
 
 ## Installation
-
-1. Clone and navigate to chatbot directory.
-
-2. Install the required packages.
+Step 1) Open Command Prompt 
+Step 2) Navigate to Project Directory
+Step 3) Install Require =d packages by following Commands
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Run the python server.
+    ```bash
+    pip install python-aiml
+    ```
+Step 4) Run the Python Server
     ```bash
     python main.py
     ```
-4. Open **http://127.0.0.1:5000** in your browser.
-
-5. You're done and let's chat with your Robot via browser.
+Step 5) Open **http://127.0.0.1:5000** in your browser.
+Step 6) This will start you chatBot and you are good to go
