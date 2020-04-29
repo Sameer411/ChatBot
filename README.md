@@ -3,8 +3,11 @@ AI bsed ChatBot
 
 ### Requirements
    Python = 2.x.x
+ 
    Flask
+   
    Aiml
+   
    pip
 
 ## Installation
@@ -14,13 +17,13 @@ Step 2) Navigate to Project Directory
 
 Step 3) Install Require =d packages by following Commands
 
-   i) pip install -r requirements.txt
+       i) pip install -r requirements.txt
    
-   ii) pip install python-aiml
+      ii) pip install python-aiml
 
 Step 4) Run the Python Server
     
-   i) python main.py
+      i) python main.py
 
 Step 5) Open **http://127.0.0.1:5000** in your browser.
 
