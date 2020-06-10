@@ -15,7 +15,7 @@ Step 1) Open Command Prompt
 
 Step 2) Navigate to Project Directory
 
-Step 3) Install Require =d packages by following Commands
+Step 3) Install Required packages by following Commands
 
        i) pip install -r requirements.txt
    
